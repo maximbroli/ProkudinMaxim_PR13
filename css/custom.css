@@ -1,3 +1,50 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.slider-element {
+    height: 100vh; /* Ensure it takes the full viewport height */
+}
+
+.slider-inner, 
+.forcefullwidth_wrapper_tp_banner,
+.rev_slider_wrapper,
+.rev_slider,
+.tp-revslider-mainul,
+.tp-revslider-slidesli,
+.slotholder,
+.tp-bgimg,
+.tp-kbimg-wrap,
+.tp-kbimg {
+    height: 100%;
+    width: 100%;
+}
+
+.tp-bgimg {
+    background-size: cover;
+    background-position: center;
+}
+
+.tp-kbimg {
+    object-fit: cover;
+}
+
+.welcome-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(128, 128, 128, 0.7); /* Gris transparente */
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: white;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
 /* ----------------------------------------------------------------
 	Custom CSS
 
