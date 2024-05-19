@@ -63,7 +63,7 @@
     object-fit: cover;
 }
 
-.welcome-message {
+		.welcome-message2 {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -118,15 +118,15 @@
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item sub-menu">
-									<a class="menu-link" href="#"><div>Sobre mi<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="About.php"><div>Sobre mi<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="#"><div>Contáctame<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Contact.php"><div>Contáctame<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="#"><div>Portfolio<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Port.php"><div>Portfolio<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 							</ul>
@@ -161,6 +161,9 @@
                             </div>
                             <!-- LAYERS -->
                             <div class="welcome-message">
+                                
+                            </div>
+							<div class="welcome-message2">
                                 Bienvenido explorador
                             </div>
                             <section id="slider" class="slider-element boxed-slider" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
