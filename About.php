@@ -125,67 +125,31 @@
 
 					<div class="row">
 						<div class="col-lg-6">
-							<h3>Objective</h3>
+							<h3>Objetivos</h3>
 
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa repellendus adipisci laborum placeat delectus labore cupiditate deserunt minus numquam consequatur esse, hic at earum illo animi eaque et, dolorem quo qui eos? Quam rerum possimus maxime veniam aut ratione eveniet aliquid cumque aspernatur ipsum libero quaerat, nam. Ad, sunt, error!</p>
+							<p>Buscar soluciones concretas y rápidas, siempre tener un plan B incluso C. Mejorar en aspectos profesionales del oficio además de tener una buena comunicación con el equipo. Organización del trabajo en cuanto al orden de trabajo y pipeline.</p>
 						</div>
 
 						<div class="col-lg-6">
-							<h3>Future Endaevours</h3>
+							<h3>Planes a Futuro</h3>
 
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa repellendus adipisci laborum placeat delectus labore cupiditate deserunt minus numquam consequatur esse, hic at earum illo animi eaque et, dolorem quo qui eos? Quam rerum possimus maxime veniam aut ratione eveniet aliquid cumque aspernatur ipsum libero quaerat, nam. Ad, sunt, error!</p>
+							<p>Conseguir tener un equipo con el que poder llegar a crear grandes proyectos. Encontrar la manera de compaginar la vida profesional con la privada, además de intentar conseguir reconocimiento en las grandes empresas. </p>
 						</div>
 					</div>
 
 				</div>
+<div class="container">
 
-				<div class="section parallax scroll-detect dark mb-6" style="padding: 100px 0px; --cnvs-scroll-height: 395; --cnvs-scroll-percent: 0; --cnvs-scroll-ratio: 0; --cnvs-scroll-start: 0; --cnvs-scroll-end: 0;" data-bs-theme="dark">
-					<img src="images/services/home-testi-bg.jpg" class="parallax-bg">
-
-					<div class="container">
-
-						<div class="row">
-							<div class="col-lg-3 text-center not-animated" data-animate="bounceIn">
-								<i class="i-plain i-large mx-auto mb-0 bi-clock"></i>
-								<div class="counter counter-lined"><span data-from="10" data-to="80" data-refresh-interval="50" data-speed="4000" data-comma="true"></span>+</div>
-								<h5>Hours per Week</h5>
-							</div>
-
-							<div class="col-lg-3 text-center not-animated" data-animate="bounceIn" data-delay="200">
-								<i class="i-plain i-large mx-auto mb-0 bi-code"></i>
-								<div class="counter counter-lined"><span data-from="100" data-to="25841" data-refresh-interval="50" data-speed="2500" data-comma="true"></span></div>
-								<h5>Lines of Code</h5>
-							</div>
-
-							<div class="col-lg-3 text-center not-animated" data-animate="bounceIn" data-delay="400">
-								<i class="i-plain i-large mx-auto mb-0 bi-briefcase"></i>
-								<div class="counter counter-lined"><span data-from="100" data-to="923" data-refresh-interval="50" data-speed="3500" data-comma="true"></span></div>
-								<h5>Projects Completed</h5>
-							</div>
-
-							<div class="col-lg-3 text-center not-animated" data-animate="bounceIn" data-delay="600">
-								<i class="i-plain i-large mx-auto mb-0 fa-brands fa-dribbble"></i>
-								<div class="counter counter-lined"><span data-from="25" data-to="214" data-refresh-interval="30" data-speed="2700" data-comma="true"></span></div>
-								<h5>Shots on Dribbble</h5>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-
-				<div class="container">
-
-					<div class="row g-5 mb-6">
-						<div class="col-lg-4 col-md-6">
+		  <div class="row g-16 mb-16">
+						<div class="col-lg-6 col-md-6">
 
 							<div class="fancy-title title-border">
-								<h4>My Skills</h4>
+								<h4>Mis habilidades</h4>
 							</div>
 
 							<div class="skill-progress" data-percent="80" data-speed="1000" style="--cnvs-progress-height: 0.25rem;">
 								<div class="skill-progress-title mb-2">
-									<h5>WordPress</h5>
+									<h5>Indesign</h5>
 									<div class="badge bg-light text-dark">
 										<div class="counter counter-inherit counter-instant"><span data-from="0" data-to="80" data-refresh-interval="30" data-speed="1000">80</span>%</div>
 									</div>
@@ -207,11 +171,11 @@
 								</div>
 							</div>
 
-							<div class="skill-progress" data-percent="90" data-speed="1000" style="--cnvs-progress-height: 0.25rem;">
+							<div class="skill-progress" data-percent="66" data-speed="1000" style="--cnvs-progress-height: 0.25rem;">
 								<div class="skill-progress-title mb-2">
 									<h5>HTML5</h5>
 									<div class="badge bg-light text-dark">
-										<div class="counter counter-inherit counter-instant"><span data-from="0" data-to="90" data-refresh-interval="30" data-speed="1000">90</span>%</div>
+										<div class="counter counter-inherit counter-instant"><span data-from="0" data-to="66" data-refresh-interval="30" data-speed="1000">65</span>%</div>
 									</div>
 								</div>
 								<div class="skill-progress-bar">
@@ -221,7 +185,7 @@
 
 							<div class="skill-progress" data-percent="70" data-speed="1000" style="--cnvs-progress-height: 0.25rem;">
 								<div class="skill-progress-title mb-2">
-									<h5>Javascript</h5>
+									<h5>Autodesk Maya</h5>
 									<div class="badge bg-light text-dark">
 										<div class="counter counter-inherit counter-instant"><span data-from="0" data-to="70" data-refresh-interval="30" data-speed="1000">70</span>%</div>
 									</div>
@@ -233,29 +197,20 @@
 
 						</div>
 
-						<div class="col-lg-4 col-md-6">
+						<div class="col-lg-6 col-md-6">
 
 							<div class="fancy-title title-border">
-								<h4>Instagram</h4>
+								<h4>Experiencia</h4>
 							</div>
 
-							<div class="alert instagram-widget-alert text-center alert-danger">Could not fetch Photos from Instagram API. Please try again later.</div><div id="instagram-photos" class="instagram-photos masonry-thumbs grid-container row row-cols-4 customjs" data-user="blog.canvastemplate"></div>
+							<div class="col-lg-8">
+							<p>·Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos (2023-2025)</p>
+								<p>·Prácticas en empresa 3 meses (2025)</p>
+						</div>
 
 						</div>
 
-						<div class="col-lg-4">
-
-							<div class="fancy-title title-border">
-								<h4>Twitter Feed</h4>
-							</div>
-
-							<div class="fslider customjs testimonial twitter-scroll twitter-feed" data-username="envato" data-count="3" data-animation="slide" data-arrows="false"><div class="alert twitter-widget-alert text-center alert-danger">Could not fetch Tweets from Twitter API. Please try again later.</div>
-								<div class="flexslider">
-									<div class="slider-wrap"></div>
-								</div>
-							</div>
-
-						</div>
+						
 					</div>
 
 				</div>
@@ -263,136 +218,12 @@
 				<div class="section mb-0">
 					<div class="container">
 						<div class="heading-block text-center border-bottom-0 mb-0">
-							<h3>Some of my Projects</h3>
-							<span>Awesome Works that I've contibuted to. Proudly.</span>
+							<h3>Si la vida te da limones</h3>
+							<span>Toca declararlos a hacienda</span>
 						</div>
 					</div>
 				</div>
-
-				<div id="portfolio" class="portfolio row portfolio-reveal g-0">
-
-					<article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-1-5 pf-illustrations">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="portfolio-single.html">
-									<img src="images/portfolio/4/2.jpg" alt="Locked Steel Gate">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;">
-										<a href="images/portfolio/full/2.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" style="animation-duration: 350ms;"><i class="uil uil-ellipsis-h"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
-								<span><a href="#">Illustrations</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-1-5 pf-graphics pf-uielements">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="#">
-									<img src="images/portfolio/4/3.jpg" alt="Mac Sunglasses">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;">
-										<a href="https://vimeo.com/89396394" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="iframe" style="animation-duration: 350ms;"><i class="uil uil-play"></i></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" style="animation-duration: 350ms;"><i class="uil uil-ellipsis-h"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single-video.html">Mac Sunglasses</a></h3>
-								<span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-1-5 pf-icons pf-illustrations">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<div class="fslider" data-arrows="false" data-speed="400" data-pause="4000">
-									<div class="flexslider">
-										
-									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 279.594px;"><div class="slider-wrap" style="width: 800%; transition-duration: 0s; transform: translate3d(-278px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 278.797px; margin-right: 0px; float: left; display: block;"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/4-1.jpg" alt="Morning Dew" draggable="false"></a></div>
-											<div class="slide flex-active-slide" style="width: 278.797px; margin-right: 0px; float: left; display: block;" data-thumb-alt=""><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/4.jpg" alt="Morning Dew" draggable="false"></a></div>
-											<div class="slide" data-thumb-alt="" style="width: 278.797px; margin-right: 0px; float: left; display: block;"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/4-1.jpg" alt="Morning Dew" draggable="false"></a></div>
-										<div class="slide clone" style="width: 278.797px; margin-right: 0px; float: left; display: block;" aria-hidden="true"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/4.jpg" alt="Morning Dew" draggable="false"></a></div></div></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="flex-active">1</a></li><li><a href="#">2</a></li></ol></div>
-								</div>
-								<div class="bg-overlay" data-lightbox="gallery">
-									<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;">
-										<a href="images/portfolio/full/4.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="gallery-item" style="animation-duration: 350ms;"><i class="uil uil-images"></i></a>
-										<a href="images/portfolio/full/4-1.jpg" class="d-none" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" style="animation-duration: 350ms;"><i class="uil uil-ellipsis-h"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single-gallery.html">Morning Dew</a></h3>
-								<span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-1-5 pf-uielements pf-media">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<a href="portfolio-single.html">
-									<img src="images/portfolio/4/5.jpg" alt="Console Activity">
-								</a>
-								<div class="bg-overlay">
-									<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;">
-										<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
-										<a href="portfolio-single.html" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" style="animation-duration: 350ms;"><i class="uil uil-ellipsis-h"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single.html">Console Activity</a></h3>
-								<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
-							</div>
-						</div>
-					</article>
-
-					<article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-1-5 pf-graphics pf-illustrations">
-						<div class="grid-inner">
-							<div class="portfolio-image">
-								<div class="fslider" data-arrows="false">
-									<div class="flexslider">
-										
-									<div class="flex-viewport" style="overflow: hidden; position: relative; height: 279.594px;"><div class="slider-wrap" style="width: 1200%; transition-duration: 0s; transform: translate3d(-278px, 0px, 0px);"><div class="slide clone" aria-hidden="true" style="width: 278.797px; margin-right: 0px; float: left; display: block;"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/6-3.jpg" alt="Shake It" draggable="false"></a></div>
-											<div class="slide flex-active-slide" style="width: 278.797px; margin-right: 0px; float: left; display: block;" data-thumb-alt=""><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/6.jpg" alt="Shake It" draggable="false"></a></div>
-											<div class="slide" data-thumb-alt="" style="width: 278.797px; margin-right: 0px; float: left; display: block;"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/6-1.jpg" alt="Shake It" draggable="false"></a></div>
-											<div class="slide" data-thumb-alt="" style="width: 278.797px; margin-right: 0px; float: left; display: block;"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/6-2.jpg" alt="Shake It" draggable="false"></a></div>
-											<div class="slide" data-thumb-alt="" style="width: 278.797px; margin-right: 0px; float: left; display: block;"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/6-3.jpg" alt="Shake It" draggable="false"></a></div>
-										<div class="slide clone" style="width: 278.797px; margin-right: 0px; float: left; display: block;" aria-hidden="true"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/6.jpg" alt="Shake It" draggable="false"></a></div></div></div><ol class="flex-control-nav flex-control-paging"><li><a href="#" class="flex-active">1</a></li><li><a href="#">2</a></li><li><a href="#">3</a></li><li><a href="#">4</a></li></ol></div>
-								</div>
-								<div class="bg-overlay" data-lightbox="gallery">
-									<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;">
-										<a href="images/portfolio/full/6.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" data-lightbox="gallery-item" style="animation-duration: 350ms;"><i class="uil uil-images"></i></a>
-										<a href="images/portfolio/full/6-1.jpg" class="d-none" data-lightbox="gallery-item"></a>
-										<a href="images/portfolio/full/6-2.jpg" class="d-none" data-lightbox="gallery-item"></a>
-										<a href="images/portfolio/full/6-3.jpg" class="d-none" data-lightbox="gallery-item"></a>
-										<a href="portfolio-single-gallery.html" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-hover-parent=".portfolio-item" style="animation-duration: 350ms;"><i class="uil uil-ellipsis-h"></i></a>
-									</div>
-									<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-hover-parent=".portfolio-item" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
-								</div>
-							</div>
-							<div class="portfolio-desc">
-								<h3><a href="portfolio-single-gallery.html">Shake It!</a></h3>
-								<span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
-							</div>
-						</div>
-					</article>
-
-				</div><!-- #portfolio end -->
+<!-- #portfolio end -->
 
 			</div>
 		</section><!-- #content end -->
@@ -400,249 +231,43 @@
 		<!-- Footer
 		============================================= -->
 		<footer id="footer" class="dark" data-bs-theme="dark" data-onepage-settings="{&quot;offset&quot;:60,&quot;speed&quot;:1250,&quot;easing&quot;:false}">
-			<div class="container">
-
-				<!-- Footer Widgets
-				============================================= -->
-				<div class="footer-widgets-wrap">
-
-					<div class="row col-mb-50">
-						<div class="col-lg-8">
-
-							<div class="row col-mb-50">
-								<div class="col-md-4">
-
-									<div class="widget">
-
-										<img src="images/footer-widget-logo.png" alt="Image" class="footer-logo">
-
-										<p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards.</p>
-
-										<div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
-											<address>
-												<strong>Headquarters:</strong><br>
-												795 Folsom Ave, Suite 600<br>
-												San Francisco, CA 94107<br>
-											</address>
-											<abbr title="Phone Number"><strong>Phone:</strong></abbr> (1) 8547 632521<br>
-											<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-											<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
-										</div>
-
-									</div>
-
-								</div>
-
-								<div class="col-md-4">
-
-									<div class="widget widget_links">
-
-										<h4>Blogroll</h4>
-
-										<ul>
-											<li><a href="https://codex.wordpress.org/">Documentation</a></li>
-											<li><a href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a></li>
-											<li><a href="https://wordpress.org/extend/plugins/">Plugins</a></li>
-											<li><a href="https://wordpress.org/support/">Support Forums</a></li>
-											<li><a href="https://wordpress.org/extend/themes/">Themes</a></li>
-											<li><a href="https://wordpress.org/news/">Canvas Blog</a></li>
-											<li><a href="https://planet.wordpress.org/">Canvas Planet</a></li>
-										</ul>
-
-									</div>
-
-								</div>
-
-								<div class="col-md-4">
-
-									<div class="widget">
-										<h4>Recent Posts</h4>
-
-										<div class="posts-sm row col-mb-30" id="post-list-footer">
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
-														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-
-											<div class="entry col-12">
-												<div class="grid-inner row">
-													<div class="col">
-														<div class="entry-title">
-															<h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
-														</div>
-														<div class="entry-meta">
-															<ul>
-																<li>10th July 2021</li>
-															</ul>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-
-								</div>
-							</div>
-
-						</div>
-
-						<div class="col-lg-4">
-
-							<div class="row col-mb-50">
-								<div class="col-md-4 col-lg-12">
-									<div class="widget">
-
-										<div class="row col-mb-30">
-											<div class="col-lg-6">
-												<div class="counter counter-small"><span data-from="50" data-to="15065421" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
-												<h5 class="mb-0">Total Downloads</h5>
-											</div>
-
-											<div class="col-lg-6">
-												<div class="counter counter-small"><span data-from="100" data-to="18465" data-refresh-interval="50" data-speed="2000" data-comma="true"></span></div>
-												<h5 class="mb-0">Clients</h5>
-											</div>
-										</div>
-
-									</div>
-								</div>
-
-								<div class="col-md-5 col-lg-12">
-									<div class="widget subscribe-widget">
-										<h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
-										<div class="widget-subscribe-form-result"></div>
-										<form id="widget-subscribe-form" action="include/subscribe.php" method="post" class="mb-0" novalidate="novalidate">
-											<div class="input-group mx-auto">
-												<div class="input-group-text"><i class="bi-envelope-plus"></i></div>
-												<input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email">
-												<button class="btn btn-success" type="submit">Subscribe</button>
-											</div>
-										</form>
-									</div>
-								</div>
-
-								<div class="col-md-3 col-lg-12">
-									<div class="widget">
-
-										<div class="row col-mb-30">
-											<div class="col-6 col-md-12 col-lg-6 d-flex align-items-center">
-												<a href="#" class="social-icon text-white border-transparent bg-facebook me-2 mb-0 float-none">
-													<i class="fa-brands fa-facebook-f"></i>
-													<i class="fa-brands fa-facebook-f"></i>
-												</a>
-												<a href="#" class="ms-1"><small class="d-block"><strong>Like Us</strong><br>on Facebook</small></a>
-											</div>
-											<div class="col-6 col-md-12 col-lg-6 d-flex align-items-center">
-												<a href="#" class="social-icon text-white border-transparent bg-rss me-2 mb-0 float-none">
-													<i class="fa-solid fa-rss"></i>
-													<i class="fa-solid fa-rss"></i>
-												</a>
-												<a href="#" class="ms-1"><small class="d-block"><strong>Subscribe</strong><br>to RSS Feeds</small></a>
-											</div>
-										</div>
-
-									</div>
-								</div>
-
-
-							</div>
-
-						</div>
-					</div>
-
-				</div><!-- .footer-widgets-wrap end -->
-
-			</div>
-
-			<!-- Copyrights
-			============================================= -->
-			<div id="copyrights">
-				<div class="container">
-
-					<div class="row col-mb-30">
-
-						<div class="col-md-6 text-center text-md-start">
-							Copyrights © 2023 All Rights Reserved by Canvas Inc.<br>
-							<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
-						</div>
-
-						<div class="col-md-6 text-center text-md-end">
-							<div class="d-flex justify-content-center justify-content-md-end mb-2">
-								<a href="#" class="social-icon border-transparent si-small h-bg-facebook">
-									<i class="fa-brands fa-facebook-f"></i>
-									<i class="fa-brands fa-facebook-f"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-x-twitter">
-									<i class="fa-brands fa-x-twitter"></i>
-									<i class="fa-brands fa-x-twitter"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-google">
-									<i class="fa-brands fa-google"></i>
-									<i class="fa-brands fa-google"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-pinterest">
-									<i class="fa-brands fa-pinterest-p"></i>
-									<i class="fa-brands fa-pinterest-p"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-vimeo">
-									<i class="fa-brands fa-vimeo-v"></i>
-									<i class="fa-brands fa-vimeo-v"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-github">
-									<i class="fa-brands fa-github"></i>
-									<i class="fa-brands fa-github"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-yahoo">
-									<i class="fa-brands fa-yahoo"></i>
-									<i class="fa-brands fa-yahoo"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small me-0 h-bg-linkedin">
-									<i class="fa-brands fa-linkedin"></i>
-									<i class="fa-brands fa-linkedin"></i>
-								</a>
-							</div>
-
-							<i class="bi-envelope"></i> info@canvas.com <span class="middot">·</span> <i class="fa-solid fa-phone"></i> +1-11-6541-6369 <span class="middot">·</span> <i class="bi-skype"></i> CanvasOnSkype
-						</div>
-
-					</div>
-
-				</div>
-			</div><!-- #copyrights end -->
-		</footer><!-- #footer end -->
-
+    <!-- Copyrights ============================================= -->
+    <div id="copyrights">
+        <div class="container">
+            <div class="row col-mb-30">
+                <div class="col-md-6 text-center text-md-start">
+                    Copyrights © 2024 All Rights Reserved by MaxSlav Inc.<br>
+                    <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <div class="d-flex justify-content-center justify-content-md-end mb-2">
+                        <a href="#" class="social-icon border-transparent si-small h-bg-x-twitter">
+                            <i class="fa-brands fa-x-twitter"></i>
+                            <i class="fa-brands fa-x-twitter"></i>
+                        </a>
+                        <a href="#" class="social-icon border-transparent si-small h-bg-google">
+                            <i class="fa-brands fa-google"></i>
+                            <i class="fa-brands fa-google"></i>
+                        </a>
+                        <a href="#" class="social-icon border-transparent si-small h-bg-pinterest">
+                            <i class="fa-brands fa-pinterest-p"></i>
+                            <i class="fa-brands fa-pinterest-p"></i>
+                        </a>
+                        <a href="#" class="social-icon border-transparent si-small h-bg-github">
+                            <i class="fa-brands fa-github"></i>
+                            <i class="fa-brands fa-github"></i>
+                        </a>
+                        <a href="#" class="social-icon border-transparent si-small me-0 h-bg-linkedin">
+                            <i class="fa-brands fa-linkedin"></i>
+                            <i class="fa-brands fa-linkedin"></i>
+                        </a>
+                    </div>
+                    <i class="bi-envelope"></i> info_maxslav@gmal.com <span class="middot">·</span> <i class="fa-solid fa-phone"></i> +555-864-541 <span class="middot">·</span> <i class="bi-discord"></i> MaxSlavDiscord
+                </div>
+            </div>
+        </div>
+    </div><!-- #copyrights end -->
+</footer><!-- #footer end -->
 	</div><!-- #wrapper end -->
 
 	<!-- Go To Top
