@@ -1,4 +1,5 @@
 body, html {
+	
     margin: 0;
     padding: 0;
     height: 100%;
@@ -8,7 +9,15 @@ body, html {
 .slider-element {
     height: 100vh; /* Ensure it takes the full viewport height */
 }
-
+.logo-dark{
+	padding: 0px
+}
+.logo-default{
+	padding: 8px
+}
+.cambiar-color:hover {
+      color: red; /* Cambia a rojo al pasar el ratón por encima */
+    }
 .slider-inner, 
 .forcefullwidth_wrapper_tp_banner,
 .rev_slider_wrapper,
@@ -31,7 +40,18 @@ body, html {
 .tp-kbimg {
     object-fit: cover;
 }
-
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1, .page-title-content h1, .page-title-content .h1, .page-title-content span, .portfolio-desc h3 a:hover{
+	color: #f59700;
+}
+h2{
+	color: #f59700;
+}
+h3{
+	color: #f59700;
+}
+h5, .h5{
+	color: #0F0F0F;
+}
 .welcome-message {
     position: absolute;
     top: 50%;

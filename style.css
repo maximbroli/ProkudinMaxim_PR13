@@ -17803,7 +17803,7 @@ body:not(.top-search-open) .top-search-parent .primary-menu-trigger {
   border-top: 0;
 }
 .menu-item:hover > .menu-link {
-  color: var(--cnvs-primary-menu-hover-color);
+  color: #f59700;
 }
 .menu-item.current > .menu-link {
   color: var(--cnvs-primary-menu-active-color);

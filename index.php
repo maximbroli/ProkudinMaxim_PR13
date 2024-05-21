@@ -25,7 +25,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Header - Dark Style | Canvas</title>
+	<title>Home</title>
 
 <style type="text/css" id="operaUserStyle"></style>
 	<style>
@@ -126,7 +126,7 @@
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="Port.php"><div>Portfolio<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Portfolio.php"><div>Portfolio<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 							</ul>
@@ -172,7 +172,7 @@
                                         <div class="flexslider" style="height: auto;">
                                             <div class="slider-wrap">
                                                 <div class="slide flex-active-slide" data-thumb="images/slider/boxed/thumbs/2.jpg" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" data-thumb-alt="">
-                                                    <a href="#" class="d-block position-relative">
+                                                    <a href="Portfolio.php" class="d-block position-relative">
                                                         <img src="images/slider/boxed/2.jpg" alt="Slide 2" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content justify-content-start align-items-end">
@@ -182,7 +182,7 @@
                                                     </a>
                                                 </div>
                                                 <div class="slide" data-thumb="images/slider/boxed/thumbs/3.jpg" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" data-thumb-alt="">
-                                                    <a href="#" class="d-block position-relative">
+                                                    <a href="Portfolio.php" class="d-block position-relative">
                                                         <img src="images/slider/boxed/3.jpg" alt="Slide 3" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content justify-content-end align-items-end">
@@ -192,7 +192,7 @@
                                                     </a>
                                                 </div>
                                                 <div class="slide" data-thumb="images/slider/boxed/thumbs/4.jpg" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" data-thumb-alt="">
-                                                    <a href="#" class="d-block position-relative">
+                                                    <a href="Portfolio.php" class="d-block position-relative">
                                                         <img src="images/slider/boxed/4.jpg" alt="Slide 4" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content">
@@ -202,7 +202,7 @@
                                                     </a>
                                                 </div>
                                                 <div class="slide" data-thumb="images/slider/boxed/thumbs/5.jpg" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;" data-thumb-alt="">
-                                                    <a href="#" class="d-block position-relative">
+                                                    <a href="Portfolio.php" class="d-block position-relative">
                                                         <img src="images/slider/boxed/5.jpg" alt="Slide 5" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content">
