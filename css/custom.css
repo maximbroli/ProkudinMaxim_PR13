@@ -15,6 +15,17 @@ body, html {
 .logo-default{
 	padding: 8px
 }
+.custom-image-max {
+      width: 40%; /* Ancho deseado */
+      height: auto; /* Altura ajustada automáticamente para mantener la proporción */
+    }
+.pdf-center {
+      display: flex;
+		flex-wrap: nowrap;
+      justify-content: center; /* Centra horizontalmente */
+       /* Centra verticalmente */
+       /* Altura completa de la ventana para centrar verticalmente */
+    }
 .cambiar-color:hover {
       color: red; /* Cambia a rojo al pasar el ratón por encima */
     }
@@ -64,6 +75,44 @@ h5, .h5{
     font-size: 24px;
     font-family: Arial, sans-serif;
     text-align: center;
+}
+@font-face {
+    font-family: 'optimusprincepsregular';
+    src: url('optimusprinceps-webfont.woff2') format('woff2'),
+         url('optimusprinceps-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'quaaykopregular';
+    src: url('quaaykop-webfont.woff2') format('woff2'),
+         url('quaaykop-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'revansmedium';
+    src: url('revans-medium-webfont.woff2') format('woff2'),
+         url('revans-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.header-max {
+			font-family: 'revansmedium';
+		}
+.h1-max{
+	font-family: 'optimusprincepsregular';
 }
 /* ----------------------------------------------------------------
 	Custom CSS

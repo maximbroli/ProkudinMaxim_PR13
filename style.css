@@ -13311,9 +13311,9 @@ body, html {
   }
 }
 :root {
-  --cnvs-themecolor:	#1abc9c;
+  --cnvs-themecolor:	#00CEF5;
   --cnvs-themecolor-rgb:	26, 188, 156;
-  --bs-link-color:	var(--cnvs-themecolor);
+  --bs-link-color:  var	(--cnvs-themecolor);
   --bs-link-color-rgb:	var(--cnvs-themecolor-rgb);
   --bs-link-hover-color:	var(--cnvs-heading-color);
   --cnvs-white:	#fff;
@@ -13321,7 +13321,7 @@ body, html {
   --cnvs-headings-font-weight:	600;
   /* Font Families */
   --cnvs-body-font:	"Inter", sans-serif;
-  --cnvs-primary-font:	"Inter", sans-serif;
+  --cnvs-primary-font:	'quaaykopregular';
   --cnvs-secondary-font:	"Playfair Display", serif;
   --cnvs-line-height-base:	1.5;
   --cnvs-line-height-content:	1.65;
@@ -14221,7 +14221,7 @@ span.middot {
 
 .bg-color,
 .bg-color #header-wrap {
-  background-color: rgba(var(--cnvs-themecolor-rgb), var(--bs-bg-opacity, 1)) !important;
+  background-color: #00CEF5;
 }
 
 .bg-color[class*=bg-opacity-] {
@@ -27192,7 +27192,7 @@ td.actions {
   --cnvs-counter-lined-width: 15%;
   font-size: var(--cnvs-counter-font-size);
   font-weight: var(--cnvs-counter-font-weight);
-  font-family: var(--cnvs-counter-font-family);
+  font-family: "Inter", sans-serif;
 }
 .counter.counter-small {
   --cnvs-counter-font-size: var(--cnvs-counter-sm-font-size);
@@ -28337,7 +28337,7 @@ h3.titular-title, .titular-title.h3 {
 :root {
   --cnvs-before-heading-font-size: 1rem;
   --cnvs-before-heading-font-weight: 400;
-  --cnvs-before-heading-font-family: var(--cnvs-secondary-font);
+  --cnvs-before-heading-font-family: 'revansmedium';
   --cnvs-before-heading-ls: 0px;
   --cnvs-before-heading-tt: none;
   --cnvs-before-heading-fst: normal;

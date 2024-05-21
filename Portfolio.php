@@ -138,19 +138,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/1.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/1.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Wallpaper Lobo</a></h3>
+									<span><a href="#">Gato con botas</a> <a href="#">- Muerte</a></span>
 								</div>
 							</div>
 						</article>
@@ -159,19 +159,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/2.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/2.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Bocetos Buto</a></h3>
+									<span><a href="#">Personaje Original</a> <a href="#">- Sise&amp;Buto </a></span>
 								</div>
 							</div>
 						</article>
@@ -180,19 +180,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/3.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/3.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Perla</a></h3>
+									<span><a href="#">Personaje de</a> <a href="#">Steven Universe</a></span>
 								</div>
 							</div>
 						</article>
@@ -201,19 +201,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/4.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/4.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Noche de Estudio</a></h3>
+									<span><a href="#">Wallpaper</a> <a href="#"></a></span>
 								</div>
 							</div>
 						</article>
@@ -226,15 +226,15 @@
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Vegete SSJ Blue Evolution</a></h3>
+									<span><a href="#">Personaje de</a> <a href="#">Dragon Ball</a></span>
 								</div>
 							</div>
 						</article>
@@ -243,19 +243,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/6.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/6.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Caos Neon</a></h3>
+									<span><a href="#">Wallpaper</a> <a href="#"></a></span>
 								</div>
 							</div>
 						</article>
@@ -264,19 +264,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/7.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/7.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Fichas Jumanji</a></h3>
+									<span><a href="#">Temática</a> <a href="#">Steampunk - 3D</a></span>
 								</div>
 							</div>
 						</article>
@@ -285,19 +285,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/8.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/8.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Bodegón</a></h3>
+									<span><a href="#">Recreación </a> <a href="#">3D</a></span>
 								</div>
 							</div>
 						</article>
@@ -306,19 +306,19 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="portfolio-single.html">
-										<img src="images/portfolio/3/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/3/9.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;">
-											<a href="images/portfolio/full/5.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image" style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
+											<a href="images/portfolio/full/9.jpg" class="overlay-trigger-icon bg-light text-dark not-animated" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image"  style="animation-duration: 350ms;"><i class="uil uil-plus"></i></a>
 											</a>
 										</div>
 										<div class="bg-overlay-bg dark not-animated" data-hover-animate="fadeIn" data-bs-theme="dark" style="animation-duration: 600ms;"></div>
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Console Activity</a></h3>
-									<span><a href="#">UI Elements</a>, <a href="#">Media</a></span>
+									<h3><a href="#">Habitación al anochecer</a></h3>
+									<span><a href="#">Render</a> <a href="#">3D</a></span>
 								</div>
 							</div>
 						</article>

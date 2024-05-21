@@ -109,8 +109,10 @@
 				<div class="page-title-row">
 
 					<div class="page-title-content">
+						<div class="h1-max"> 
 						<h1 style="color:white;">Maxim Prokudin</h1>
 						<span style="color: white;">3D Artist &amp; Designer</span>
+							</div>
 					</div>
 
 				</div>
