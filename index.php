@@ -121,11 +121,11 @@
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item sub-menu">
-									<a class="menu-link" href="About.php"><div>Sobre mi<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="About.php"><div>About me<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="Contact.php"><div>Contáctame<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Contact.php"><div>Contact<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
@@ -168,7 +168,7 @@
                                 
                             </div>
 							<div class="welcome-message2">
-                                Bienvenido explorador
+                                Wellcome explorer
                             </div>
                             <section id="slider" class="slider-element boxed-slider" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
                                 <div class="container">
@@ -180,7 +180,7 @@
                                                         <img src="images/slider/boxed/2.jpg" alt="Slide 2" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content justify-content-start align-items-end">
-                                                                <div class="h3 fw-light py-2 px-3 bg-light text-dark ms-3 mb-3 rounded">Creación de personajes</div>
+                                                                <div class="h3 fw-light py-2 px-3 bg-light text-dark ms-3 mb-3 rounded">Character Design</div>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -190,7 +190,7 @@
                                                         <img src="images/slider/boxed/3.jpg" alt="Slide 3" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content justify-content-end align-items-end">
-                                                                <div class="h3 fw-light py-2 px-3 bg-dark text-light me-3 mb-3 rounded">Encargos</div>
+                                                                <div class="h3 fw-light py-2 px-3 bg-dark text-light me-3 mb-3 rounded">Commisions</div>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -210,7 +210,7 @@
                                                         <img src="images/slider/boxed/5.jpg" alt="Slide 5" draggable="false">
                                                         <div class="bg-overlay">
                                                             <div class="bg-overlay-content">
-                                                                <div class="h3 fw-light py-2 px-3 bg-warning text-dark rounded">Modelado 3D</div>
+                                                                <div class="h3 fw-light py-2 px-3 bg-warning text-dark rounded">3D Modeling</div>
                                                             </div>
                                                         </div>
                                                     </a>

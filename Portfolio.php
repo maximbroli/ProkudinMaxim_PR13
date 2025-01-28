@@ -76,10 +76,10 @@
 									<a class="menu-link"  href="index.php"><div>Home<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 <button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button></li>
 								<li class="menu-item sub-menu">
-									<a class="menu-link" href="About.php"><div>Sobre mi<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="About.php"><div>About me<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 <button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button></li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="Contact.php"><div>Contáctame<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Contact.php"><div>Contact<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 <button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button></li>
 								<li class="menu-item mega-menu sub-menu">
 									<a class="menu-link" href="Portfolio.php"><div>Portfolio<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
@@ -107,8 +107,8 @@
 				<div class="page-title-row">
 
 					<div class="page-title-content">
-						<h1 color="#f59700">Proyectos</h1>
-						<span>Profesionales y Personales</span>
+						<h1 color="#f59700">Professional and Personal</h1>
+						<span>Proyects / works</span>
 					</div>
 
 					<nav aria-label="breadcrumb">
@@ -149,8 +149,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Wallpaper Lobo</a></h3>
-									<span><a href="#">Gato con botas</a> <a href="#">- Muerte</a></span>
+									<h3><a href="#">Wolf Wallpaper</a></h3>
+									<span><a href="#">Puss in boots</a> <a href="#">- Death</a></span>
 								</div>
 							</div>
 						</article>
@@ -170,8 +170,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Bocetos Buto</a></h3>
-									<span><a href="#">Personaje Original</a> <a href="#">- Sise&amp;Buto </a></span>
+									<h3><a href="#">Buto Concept</a></h3>
+									<span><a href="#">Original Character</a> <a href="#">- Sise&amp;Buto </a></span>
 								</div>
 							</div>
 						</article>
@@ -191,8 +191,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Perla</a></h3>
-									<span><a href="#">Personaje de</a> <a href="#">Steven Universe</a></span>
+									<h3><a href="#">Pearl</a></h3>
+									<span><a href="#">Character from</a> <a href="#">Steven Universe</a></span>
 								</div>
 							</div>
 						</article>
@@ -212,7 +212,7 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Noche de Estudio</a></h3>
+									<h3><a href="#">Night Study</a></h3>
 									<span><a href="#">Wallpaper</a> <a href="#"></a></span>
 								</div>
 							</div>
@@ -233,8 +233,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Vegete SSJ Blue Evolution</a></h3>
-									<span><a href="#">Personaje de</a> <a href="#">Dragon Ball</a></span>
+									<h3><a href="#">Vegetta SSJ Blue Evolution</a></h3>
+									<span><a href="#">Character from</a> <a href="#">Dragon Ball</a></span>
 								</div>
 							</div>
 						</article>
@@ -254,7 +254,7 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Caos Neon</a></h3>
+									<h3><a href="#">Neon Chaos</a></h3>
 									<span><a href="#">Wallpaper</a> <a href="#"></a></span>
 								</div>
 							</div>
@@ -275,8 +275,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Fichas Jumanji</a></h3>
-									<span><a href="#">Temática</a> <a href="#">Steampunk - 3D</a></span>
+									<h3><a href="#">Jumanji tokens</a></h3>
+									<span><a href="#">Theme</a> <a href="#">Steampunk - 3D</a></span>
 								</div>
 							</div>
 						</article>
@@ -296,8 +296,8 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Bodegón</a></h3>
-									<span><a href="#">Recreación </a> <a href="#">3D</a></span>
+									<h3><a href="#">Still life</a></h3>
+									<span><a href="#">Recreation in </a> <a href="#">3D</a></span>
 								</div>
 							</div>
 						</article>
@@ -317,7 +317,7 @@
 									</div>
 								</div>
 								<div class="portfolio-desc">
-									<h3><a href="#">Habitación al anochecer</a></h3>
+									<h3><a href="#">Room at afternoon</a></h3>
 									<span><a href="#">Render</a> <a href="#">3D</a></span>
 								</div>
 							</div>

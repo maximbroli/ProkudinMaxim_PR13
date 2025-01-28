@@ -82,10 +82,10 @@
 									<a class="menu-link"  href="index.php"><div>Home<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 <button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button></li>
 								<li class="menu-item sub-menu">
-									<a class="menu-link" href="About.php"><div>Sobre mi<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="About.php"><div>About me<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 <button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button></li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="Contact.php"><div>Contáctame<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Contact.php"><div>Contact<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 <button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button></li>
 								<li class="menu-item mega-menu sub-menu">
 									<a class="menu-link" href="Portfolio.php"><div>Portfolio<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
@@ -110,14 +110,14 @@
 				<div class="page-title-row">
 
 					<div class="page-title-content">
-						<h1>Encantado</h1>
-						<span>de poder hablar contigo</span>
+						<h1>Pleased</h1>
+						<span>talking with you</span>
 					</div>
 
 					<nav aria-label="breadcrumb">
 						<ol class="breadcrumb">
 							<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-							<li class="breadcrumb-item"><a href="Contact.php">Contáctame</a></li>
+							<li class="breadcrumb-item"><a href="Contact.php">Contact</a></li>
 						</ol>
 					</nav>
 
@@ -156,7 +156,7 @@
 						<div class="col-lg-6">
 
 							<div class="fancy-title title-border">
-								<h3>Envíe un correo</h3>
+								<h3>Send an email</h3>
 							</div>
 
 							<div class="form-widget">
@@ -170,55 +170,55 @@
 
       <div class="row">
         <div class="col-md-4 form-group">
-          <label for="template-contactform-name">Nombre <small>*</small></label>
+          <label for="template-contactform-name">Name <small>*</small></label>
           <input type="text" id="template-contactform-name" name="template-contactform-name" value="" autofocus>
-          <span class="error" id="error-name">El nombre debe tener al menos 3 letras.</span>
+          <span class="error" id="error-name">Name must have at least 3 letters.</span>
         </div>
 
         <div class="col-md-4 form-group">
-          <label for="template-contactform-email">Correo <small>*</small></label>
+          <label for="template-contactform-email">Email <small>*</small></label>
           <input type="email" id="template-contactform-email" name="template-contactform-email" value="" >
-          <span class="error" id="error-email">El correo es obligatorio.</span>
+          <span class="error" id="error-email">Email Required</span>
         </div>
 
         <div class="col-md-4 form-group">
-          <label for="template-contactform-phone">Teléfono</label>
+          <label for="template-contactform-phone">Phone number</label>
           <input type="text" id="template-contactform-phone" name="template-contactform-phone" value="" >
         </div>
 
         <div class="w-100"></div>
 
         <div class="col-md-8 form-group">
-          <label for="template-contactform-subject">Asunto <small>*</small></label>
+          <label for="template-contactform-subject">Subject <small>*</small></label>
           <input type="text" id="template-contactform-subject" name="subject" value="">
 			<br>
-          <span class="error" id="error-subject">El asunto es obligatorio.</span>
+          <span class="error" id="error-subject">Subject Required</span>
 			</br>
         </div>
 
         <div class="col-md-4 form-group">
-          <label for="template-contactform-service">Servicio</label>
+          <label for="template-contactform-service">Services</label>
           <select id="template-contactform-service" name="template-contactform-service" class="form-select">
-            <option value="">-- Escoge uno --</option>
-            <option value="Wordpress">Creación de personaje</option>
-            <option value="PHP / MySQL">Encargo</option>
-            <option value="HTML5 / CSS3">Diseño Gráfico</option>
-            <option value="Graphic Design">Otro</option>
+            <option value="">-- Select one --</option>
+            <option value="Wordpress">Chacter Design</option>
+            <option value="PHP / MySQL">Commision</option>
+            <option value="HTML5 / CSS3">Graphic Design</option>
+            <option value="Graphic Design">Other</option>
           </select>
         </div>
 
         <div class="w-100"></div>
 
         <div class="col-12 form-group">
-          <label for="template-contactform-message">Mensaje <small>*</small></label>
+          <label for="template-contactform-message">Message <small>*</small></label>
           <textarea id="template-contactform-message" name="template-contactform-message" rows="6" cols="30"></textarea>
-          <span class="error" id="error-message">El mensaje es obligatorio.</span>
+          <span class="error" id="error-message">Message Required</span>
         </div>
 
         <div class="col-12 form-group">
           <input type="checkbox" id="template-contactform-checkbox" name="template-contactform-checkbox">
-          <label for="template-contactform-checkbox">Acepto los términos y condiciones</label>
-          <span class="error" id="error-checkbox">Debe aceptar los términos y condiciones.</span>
+          <label for="template-contactform-checkbox">Accept terms of use and service</label>
+          <span class="error" id="error-checkbox">Accepting is required</span>
         </div>
 
         <div class="col-12 form-group d-none">
@@ -300,7 +300,7 @@
 						<div class="col-lg-6">
 							
 							<h1 align="center">
-     						 <a href="images/cv/Prokudin_Maxim_CV.pdf" download="Prokudin_Maxim_CV.pdf">Ver/Descargar CV</a>
+     						 <a href="images/cv/CV_ProkudinMaxim.pdf" download="CV_ProkudinMaxim.pdf">Download CV</a>
     						</h1>
 							<div class="pdf-center">
 							<img src="images/portfolio/3/pdf.jpg" alt="Console Activity" class="custom-image-max">

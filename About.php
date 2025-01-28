@@ -77,11 +77,11 @@
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item sub-menu">
-									<a class="menu-link" href="About.php"><div>Sobre mi<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="About.php"><div>About me<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
-									<a class="menu-link" href="Contact.php"><div>Contáctame<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
+									<a class="menu-link" href="Contact.php"><div>Contact<i class="sub-menu-indicator fa-solid fa-caret-down"></i></div></a>
 									<button class="sub-menu-trigger fa-solid fa-chevron-right"><span class="visually-hidden">Open Sub-Menu</span></button>
 								</li>
 								<li class="menu-item mega-menu sub-menu">
@@ -127,15 +127,15 @@
 
 					<div class="row">
 						<div class="col-lg-6">
-							<h3>Objetivos</h3>
+							<h3>Objectives</h3>
 
-							<p>Buscar soluciones concretas y rápidas, siempre tener un plan B incluso C. Mejorar en aspectos profesionales del oficio además de tener una buena comunicación con el equipo. Organización del trabajo en cuanto al orden de trabajo y pipeline.</p>
+							<p>Always striving to keep work fast and professional, even when doing complex tasks, I aim to ensure the process remains smooth and efficient. I'm constantly exploring new methods and approaches while staying prepared with alternative solutions. Improving teamwork and optimizing workflows are my top priorities at this stage in my career.</p>
 						</div>
 
 						<div class="col-lg-6">
-							<h3>Planes a Futuro</h3>
+							<h3>Future plans</h3>
 
-							<p>Conseguir tener un equipo con el que poder llegar a crear grandes proyectos. Encontrar la manera de compaginar la vida profesional con la privada, además de intentar conseguir reconocimiento en las grandes empresas. </p>
+							<p>Working towards building a committed and collaborative team to achieve bigger and more ambitious projects. Finding the balance between professional growth and personal life is a key priority. My aim is to gain recognition in the industry and share my work with ease. </p>
 						</div>
 					</div>
 
@@ -146,7 +146,7 @@
 						<div class="col-lg-6 col-md-6">
 
 							<div class="fancy-title title-border">
-								<h4>Mis habilidades</h4>
+								<h4>Skills</h4>
 							</div>
 
 							<div class="skill-progress" data-percent="80" data-speed="1000" style="--cnvs-progress-height: 0.25rem;">
@@ -202,14 +202,13 @@
 						<div class="col-lg-6 col-md-6">
 
 							<div class="fancy-title title-border">
-								<h4>Experiencia</h4>
+								<h4>Experience and Education</h4>
 							</div>
 
 							<div class="col-lg-8">
-								<p>·Prácticas en empresa 3 meses (2025)</p>
-							<p>·Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos (2023-2025)</p>
-								
-								<p>·Técnico Superior de Diseño y Gestión de la Producción Gráfica (2021-2023)</p>
+								<p>· Commercial graphic designer (3 months in 2023)</p>
+								<p>· Higher Technician in 3D Animations, Games and Interactive Environments (2023-2025)</p>
+								<p>· Higher Technician in Design and Graphic Production Management (2021-2023)</p>
 						</div>
 
 						</div>
@@ -218,12 +217,25 @@
 					</div>
 
 				</div>
+				<div class="container">
 
+					<div class="row">
+						<div class="col-lg-6">
+						
+
+							<p>Currently, I’m learning new technologies like Unity and programming with C#. It’s a very fun process and quite a challenge, but I’m making good progress. Once it’s finished, I’m excited to share it with everyone. In the meantime, I have other projects planned to release sooner. Check them at the Portfolio!</p>
+						</div>
+
+						
+					</div>
+
+				</div>
+<div class="container">
 				<div class="section mb-0">
 					<div class="container">
 						<div class="heading-block text-center border-bottom-0 mb-0">
-							<h3>Si la vida te da limones</h3>
-							<span>Toca declararlos a hacienda</span>
+							<h3>If life gives you lemons</h3>
+							<span>It means taxes will chase you</span>
 						</div>
 					</div>
 				</div>
